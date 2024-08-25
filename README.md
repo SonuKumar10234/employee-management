@@ -34,7 +34,7 @@ This is a simple Employee Management System built using React, Redux Toolkit, an
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/sonukr10234/employee-management.git
+    git clone https://github.com/SonuKumar10234/employee-management.git
     cd employee-management
     ```
 
